@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/employer/login": "pages/employer/login.js",
+  "/employer/signup": "pages/employer/signup.js",
+  "/employee/login": "pages/employee/login.js",
+  "/employee/benefits": "pages/employee/benefits.js",
+  "/employee/budget": "pages/employee/budget.js",
+  "/employee/paycheck": "pages/employee/paycheck.js"
+}
